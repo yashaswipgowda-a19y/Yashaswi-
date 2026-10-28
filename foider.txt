@@ -1,7 +1,11 @@
 nnanan
+<<<<<<< HEAD
 Hello Daddy
 blababbbb
 mjgutyghbger
 nbyghbeydvyzhsgbcudh nbvjufgytuyhbnjg veisuj
 nbduyfgzgdiuyhugzyfdjendfknvbmfg
 vdhmkbhvxjkitvbtufg
+=======
+New data added
+>>>>>>> fdf22d1 (New data)
